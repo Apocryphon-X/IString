@@ -21,7 +21,7 @@ void show_data(i_string src, const char* name)
 
 int main()
 {
-    i_string str = IString("Hello", " friend");
+    i_string str = IString("Hello", " friend", "!");
     i_string my_copy = sm.copy(str);
 
     println(str -> content);
@@ -49,3 +49,6 @@ int main()
     return EXIT_SUCCESS;
 }
 ```
+Output:
+
+![image](https://user-images.githubusercontent.com/40130428/167308638-179d4c6a-da03-4fdf-9616-21059e0f70bd.png)

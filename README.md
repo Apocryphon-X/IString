@@ -1,6 +1,6 @@
 # IString
 
-Made with ❤️ by @Apocryphon-X. Tested with Valgrind and other memory checks.
+Made with ❤️ by @Apocryphon-X. Tested on Valgrind and other memory checks.
 
 ## Example:
 

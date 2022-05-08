@@ -52,6 +52,6 @@ int main()
 }
 ```
 ## Output:
-`gcc -std=c99 example.c`
+Compiled with: `clang -std=c99 example.c`
 
 ![image](https://user-images.githubusercontent.com/40130428/167308638-179d4c6a-da03-4fdf-9616-21059e0f70bd.png)

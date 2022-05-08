@@ -1,5 +1,7 @@
 # IString
 
+Made with ❤️ by @Apocryphon-X. Tested with Valgrind and other memory checks.
+
 ## Example:
 
 ```c

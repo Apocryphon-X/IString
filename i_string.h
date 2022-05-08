@@ -173,7 +173,16 @@ const struct
     strmanip_s_format,
     strmanip_append,
     strmanip_s_append,
-    strmanip_destroy},
-  sm = strmanip;
+    strmanip_destroy
+},
+sm = {
+    strmanip_format,
+    strmanip_copy,
+    strmanip_reverse,
+    strmanip_s_format,
+    strmanip_append,
+    strmanip_s_append,
+    strmanip_destroy
+};
 
 #endif /* I_STRING_H */

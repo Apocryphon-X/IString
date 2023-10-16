@@ -62,4 +62,4 @@ int main()
 ## Output:
 Compiled with: `clang -std=c99 example.c`
 
-![image](https://user-images.githubusercontent.com/40130428/167309535-b7ed4d99-dc4e-4498-abc3-944f71fbc3cd.png)
+![Sample](https://github.com/Apocryphon-X/IString/assets/40130428/f12893ab-491b-4ff9-bb97-f278a7ab5c0c)

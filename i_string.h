@@ -66,8 +66,8 @@ void strmanip_append(i_string dest, i_string src)
 
     strcat(dest->content, src->content);
 
-    dest->length = new_size;
-    dest->size = new_size;
+    dest->length = new_size - 1;
+    dest->size = new_size - 1;
 }
 
 void strmanip_s_append(i_string dest, const char *src)
